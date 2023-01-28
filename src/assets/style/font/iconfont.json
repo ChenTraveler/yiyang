@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1273063",
+      "name": "操作-开关",
+      "font_class": "caozuo-kaiguan",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "6337457",
+      "name": "插入图片",
+      "font_class": "charutupian",
+      "unicode": "ec7f",
+      "unicode_decimal": 60543
+    },
+    {
+      "icon_id": "8121245",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "18211341",
+      "name": "医院",
+      "font_class": "yiyuan",
+      "unicode": "e7aa",
+      "unicode_decimal": 59306
+    }
+  ]
+}
